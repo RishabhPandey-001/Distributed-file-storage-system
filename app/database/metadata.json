@@ -1,0 +1,90 @@
+{
+    "users": [
+        {
+            "username": "Raj",
+            "password": "$2b$12$uSnrTRMAAckiucOmaSaIheuC3KeJwS529P1GwYMmX/eyDu/GXLP5W"
+        },
+        {
+            "username": "raju",
+            "password": "$2b$12$zqUfSr0uD8Dm54Ww6RNiIeZ2PLZVA0vfvEXQtCzcLbDovPFG45SzW"
+        }
+    ],
+    "files": [
+        {
+            "filename": "EY Rishabh REsume.pdf",
+            "owner": "Raj",
+            "size": 68642,
+            "upload_time": "2026-04-26 11:25:30.102947",
+            "hash": "1ee172ad05ac510469b9aa89e226b478",
+            "chunks": [
+                {
+                    "chunk_name": "EY Rishabh REsume.pdf_chunk_0",
+                    "node": "app/storage/node1"
+                },
+                {
+                    "chunk_name": "EY Rishabh REsume.pdf_chunk_0",
+                    "node": "app/storage/node2"
+                }
+            ]
+        },
+        {
+            "filename": "e-EPIC_WAC3687241.pdf",
+            "owner": "Raj",
+            "size": 1494409,
+            "upload_time": "2026-04-26 11:38:32.738290",
+            "hash": "b08de152210739c200719dcb18840672",
+            "chunks": [
+                {
+                    "chunk_name": "e-EPIC_WAC3687241.pdf_chunk_0",
+                    "node": "app/storage/node1"
+                },
+                {
+                    "chunk_name": "e-EPIC_WAC3687241.pdf_chunk_0",
+                    "node": "app/storage/node2"
+                },
+                {
+                    "chunk_name": "e-EPIC_WAC3687241.pdf_chunk_1048576",
+                    "node": "app/storage/node2"
+                },
+                {
+                    "chunk_name": "e-EPIC_WAC3687241.pdf_chunk_1048576",
+                    "node": "app/storage/node3"
+                }
+            ]
+        },
+        {
+            "filename": "Distributed_File_Storage_System.pptx",
+            "owner": "raju",
+            "size": 44857,
+            "upload_time": "2026-04-29 22:16:39.717475",
+            "hash": "280950ae28c90015c8787c5d1bb6bf55",
+            "chunks": [
+                {
+                    "chunk_name": "Distributed_File_Storage_System.pptx_chunk_0",
+                    "node": "app/storage/node1"
+                },
+                {
+                    "chunk_name": "Distributed_File_Storage_System.pptx_chunk_0",
+                    "node": "app/storage/node2"
+                }
+            ]
+        },
+        {
+            "filename": "Distributed_File_Storage_Project_Report.docx",
+            "owner": "raju",
+            "size": 37687,
+            "upload_time": "2026-04-29 22:17:14.318908",
+            "hash": "8118a5bf6a75b019375fcf66558223d8",
+            "chunks": [
+                {
+                    "chunk_name": "Distributed_File_Storage_Project_Report.docx_chunk_0",
+                    "node": "app/storage/node1"
+                },
+                {
+                    "chunk_name": "Distributed_File_Storage_Project_Report.docx_chunk_0",
+                    "node": "app/storage/node2"
+                }
+            ]
+        }
+    ]
+}
